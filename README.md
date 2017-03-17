@@ -67,7 +67,3 @@ A **method** is a **property** that is also a **function**.
 ### A Link
 
 Check out [this article](https://css-tricks.com/all-about-floats/) if you want to know more about floats and clears.
-
-### A Demo
-
-Now let's see that in practice!
