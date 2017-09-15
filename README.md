@@ -62,8 +62,29 @@ A **method** is a **property** that is also a **function**.
   }
 ```
 
-## Floats and Clears
+## Variable Hoisting
 
-### A Link
+### A Resource
+
+Check out [this explanation](https://www.w3schools.com/js/js_hoisting.asp) of variable hoisting.
+
+## CSS Positioning
+
+### A General CSS Resource
+
+Check out [this walkthrough](http://adamschwartz.co/magic-of-css/) of major CSS concepts.
+
+### A Floats and Clears Resource
 
 Check out [this article](https://css-tricks.com/all-about-floats/) if you want to know more about floats and clears.
+
+## DOM Manipulation
+
+Try to run through as many of the steps below on your favorite website, using Chrome Developer Tools.
+
+1. Make something disappear
+2. Make it reappear
+3. Change a background
+4. Copy an element somewhere else
+5. Add a click listener to something that logs something to the console like "div clicked!"
+6. Make the click listener also add an element to the page
