@@ -62,12 +62,6 @@ A **method** is a **property** that is also a **function**.
   }
 ```
 
-## Variable Hoisting
-
-### A Resource
-
-Check out [this explanation](https://www.w3schools.com/js/js_hoisting.asp) of variable hoisting.
-
 ## CSS Positioning
 
 ### A General CSS Resource
